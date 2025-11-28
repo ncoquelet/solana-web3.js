@@ -1,6 +1,6 @@
 {
   "name": "@solana/web3.js",
-  "version": "1.0.0-maintenance",
+  "version": "1.98.5",
   "description": "Solana Javascript API",
   "keywords": [
     "api",
